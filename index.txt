@@ -1,0 +1,19 @@
+Day 2 Task :
+
+Question:
+Write a blog on the difference between document & window objectes
+
+Answer:
+Docment objects:
+
+•	When an HTML document is loaded into a web browser, it becomes a document object.
+•	The document object is the root node of the HTML document and the "owner" of all other nodes :( element nodes, text nodes, attribute nodes, and comment nodes).
+•	The document object provides properties and methods to access all node objects, from within JavaScript.
+•	Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page
+
+Windows object:
+
+•	When an HTML document is loaded into a web browser, it becomes a document object.
+•	The document object is the root node of the HTML document and the "owner" of all other nodes :( element nodes, text nodes, attribute nodes, and comment nodes).
+•	The document object provides properties and methods to access all node objects, from within JavaScript. 
+•	The window object represents a window/tab containing a DOM document where as document object is property of window object that points to the DOM document loaded in that window.
